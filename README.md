@@ -3,7 +3,7 @@
 ## Soy un Programador,  Diseñador, y Fotografo!
 - 🔭 [Portafolio][website]!
 - 🌱 Estoy aprendiendo de todo 🤣
-- 👯 Buscando mejorar mis habilidades
+- ⭐ Buscando mejorar mis habilidades
 - 🥅 2020 Goals: Survive
 - ⚡ Fun fact: Me gusta jugar y tocar piano / piano
 
