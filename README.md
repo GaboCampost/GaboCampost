@@ -4,8 +4,8 @@
 - 🔭 [Portafolio][website]!
 - 🌱 Estoy aprendiendo de todo 🤣
 - ⭐ Buscando mejorar mis habilidades
-- 🥅 2020 Goals: Survive
-- ⚡ Fun fact: Me gusta jugar y tocar piano / piano
+- 🥅 2021 Goals: Survive
+- ⚡ Fun fact: Me gusta jugar y tocar piano
 
 ### Connecta conmigo:
 
@@ -46,7 +46,7 @@
 <img align="left" alt="GaboCampost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GaboCampost&show_icons=true&hide_border=true" />
 
 [website]: https://gcampos.ga
-[twitter]: https://twitter.com/gabocamposss
+[twitter]: https://twitter.com/gabocampost
 [youtube]: https://youtube.com/channel/UCW1gBV_k0_ir4Z7hntt0R6Q
 [instagram]: https://instagram.com/GaboCampost
 [linkedin]: https://www.linkedin.com/in/gabriel-alejandro-6b439b166/
