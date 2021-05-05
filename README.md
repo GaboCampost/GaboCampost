@@ -2,9 +2,9 @@
 
 ## Soy un Programador,  Diseñador, y Fotografo!
 - 🔭 [Portafolio][website]!
-- 🌱 Estoy aprendiendo de todo 🤣
+- 🌱 Estoy estudiando computacion
 - ⭐ Buscando mejorar mis habilidades
-- 🥅 2021 Goals: Survive
+- 🥅 Metas 2021: Aprender Ruby
 - ⚡ Fun fact: Me gusta jugar y tocar piano
 
 ### Connecta conmigo:
@@ -49,4 +49,4 @@
 [twitter]: https://twitter.com/gabocampost
 [youtube]: https://youtube.com/channel/UCW1gBV_k0_ir4Z7hntt0R6Q
 [instagram]: https://instagram.com/GaboCampost
-[linkedin]: https://www.linkedin.com/in/gabriel-alejandro-6b439b166/
+[linkedin]: https://www.linkedin.com/in/gabriel-colina-6b439b166/
