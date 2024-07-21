@@ -2,9 +2,9 @@
 
 ## Soy un Desarrollador de software!
 - 🔭 [Portafolio][website]!
-- 🌱 Estoy estudiando computacion
+- 🌱 Estudiando computacion
 - ⭐ Buscando mejorar mis habilidades
-- 🥅 Metas 2023: Aprender Ruby
+- 🥅 Metas 2025: Aprender Ruby
 - ⚡ Fun fact: Me gusta jugar y tocar piano
 
 ### Connecta conmigo:
